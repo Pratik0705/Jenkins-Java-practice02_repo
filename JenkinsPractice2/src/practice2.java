@@ -5,7 +5,7 @@ public class practice2 {
 		System.out.println("in Jenkins practice 2 ");
 		for(int i=0;i<5;i++)
 		{
-			System.out.println("Jenkins iteration :   "+i);
+			System.out.println("Jenkins iteration :   "+i+"hello");
 		}
 	}
 
